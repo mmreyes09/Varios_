@@ -1,0 +1,14 @@
+button{
+    background: blueviolet;
+    color: cyan;
+
+
+}
+
+button:hover{
+    background: firebrick;
+}
+
+button:active{
+    background: gold;
+}

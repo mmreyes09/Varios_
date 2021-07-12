@@ -1,0 +1,11 @@
+h1{
+    background: chocolate;
+    margin-left: 100px;
+    margin-bottom: 200px;
+}
+
+p{
+    background: coral;
+    margin: 100px;
+    padding: 100px;
+}

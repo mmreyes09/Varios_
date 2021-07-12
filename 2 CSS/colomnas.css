@@ -1,0 +1,16 @@
+nav{
+    background: coral;
+    padding: 20px;
+
+}
+.columna{
+    background: hotpink;
+    color: lavender;
+    padding: 20px;
+    width: 25%;
+    margin: 10px;
+}
+
+.padre{
+    display: flex;
+}

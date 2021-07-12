@@ -1,0 +1,9 @@
+h1{
+    background: indianred;
+    display: inline-block;
+}
+
+a{
+    background: indianred;
+    display: block;
+}
